@@ -1,0 +1,16 @@
+declaration
+variable
+entier
+debut
+fin
+lire 
+ecrire 
+si
+alors 
+sinon 
+finsi
+(
+)
+v
+:
+;

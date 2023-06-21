@@ -1,0 +1,6 @@
+variable v : entier ;
+debut
+lire ( v ) ;
+ecrire ( v ) ;
+if ( v )
+fin
